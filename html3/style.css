@@ -1,0 +1,44 @@
+*
+{
+   margin:0px;
+   padding:40px;
+   box-sizing:border-box;
+}
+.sh-1
+{
+    background-color:#e10a2aa1;
+    width:50px;
+    height:50px;
+}
+.sh-2
+{
+    background-color:rgba(172, 255, 47, 0.79);
+    width:50px;
+    height:50px;
+}
+.sh-3
+{
+    background-color:rgba(255, 0, 179, 0.611);
+    width:50;
+    height:50;
+}
+.sh-4
+{
+    background-color:rgba(0, 0, 255, 0.353);
+    width:50;
+    height:50;
+}
+.sh-5
+{
+    background-color:rgb(32, 178, 56);
+    width:50;
+    height:50;
+}
+.shapes
+{
+    display:grid;
+    width:300;
+    height:300;
+    background-color:lightseagreen;
+    
+}
