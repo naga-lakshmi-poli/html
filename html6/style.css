@@ -1,0 +1,24 @@
+img
+{
+    margin-top:40px;
+    border-color:rgb(250, 154, 38);
+    border-radius: 500px;
+    border-style: outset;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-width:5px;
+}
+h1{
+    font-size: 40px;
+    background-color:rgb(101, 33, 227);
+    margin-right:50px;
+    margin-left:50px;
+    text-align: center;
+    
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-style:normal;
+}
